@@ -1,0 +1,42 @@
+body{
+	font-family: 'lato', sans-serif;
+}
+
+img{ max-width: 100%;
+ }
+ .quitar-float{
+ 	float: none;
+ }
+ .espacio-arriba{
+ 	margin-top: 100px;
+}
+.raleway{
+	font-family: 'raleway', sans-serif;
+}
+.grande{
+	font-size: 4em;
+}
+.azul{
+	color: #0068FF
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li{
+	list-style: none;
+
+} 
+.se-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5px; 10px;
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+a,.azuls{
+	color: #5D00D3
+}
